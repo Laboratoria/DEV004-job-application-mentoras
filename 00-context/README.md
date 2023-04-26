@@ -96,7 +96,7 @@ revisión y feedback de herramientas y con la simulación.**
 | Sesión de Q&A sobre el programa.                    |   Fija   | 27/03 - 31/03 |29/03, 04pm MX - 05pm PE/CO/EC - 07pm CL|
 | Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   | 10/04 - 14/04 |11/04, 04pm MX - 05pm PE/CO/EC - 07pm CL|
 | Sesión de seguimiento al feedback.                  | Abierta  | 17/04 - 28/04 |Coordinación mentor/a - mentee|
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |Hasta el 25/04 |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |Hasta el 29/04 |
 | Simulación de entrevista de recursos humanos.       | Abierta  | 01/05 - 12/05 |Coordinación mentor/a - mentee|
 | Enviar formulario evaluación y feedback entrevista. | Abierta  |          |Hasta el 16/05 |
 
