@@ -123,7 +123,7 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/02-tech-mentoring/interviewer-guide/README.md)
+**En este [apartado](https://github.com/Laboratoria/DEV004-job-application-mentoras/blob/main/02-tech-mentoring/interviewer-guide/README.md)
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile.**
 
