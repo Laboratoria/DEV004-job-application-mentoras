@@ -130,7 +130,7 @@ simulación y revisión y feedback de su Github profile.**
 |                 Actividades                  |   Tipo   | Semana   |Día/hora |
 |----------------------------------------------|----------|----------|---------|
 | Sesión de Q&A sobre el programa.             |   Fija   | 15/05 - 19/05|18/05, 04pm CDMX/5pm PE,CO,EC/6pm CL (santiago)|
-| Simulación de entrevista técnica.            | Abierta  | 22/05 - 29/05|Coordinación mentor/a - mentee|
+| Simulación de entrevista técnica.            | Abierta  | 22/05 - 02/06|Coordinación mentor/a - mentee|
 | Enviar formulario evaluación y feedback.     | Abierta  |          |Hasta el 05/06|
 
 ### Objetivos de aprendizaje
